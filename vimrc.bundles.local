@@ -1,0 +1,18 @@
+Bundle 'fatih/vim-go'
+
+UnBundle 'spf13/PIV'
+UnBundle 'arnaud-lb/vim-php-namespace'
+UnBundle 'beyondwords/vim-twig'
+UnBundle 'klen/python-mode'
+UnBundle 'yssource/python.vim'
+UnBundle 'python_match.vim'
+UnBundle 'pythoncomplete'
+UnBundle 'kchmck/vim-coffee-script'
+UnBundle 'tpope/vim-rails'
+UnBundle 'rust-lang/rust.vim'
+UnBundle 'tpope/vim-cucumber'
+UnBundle 'cespare/vim-toml'
+UnBundle 'quentindecock/vim-cucumber-align-pipes'
+UnBundle 'saltstack/salt-vim'
+
+

@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# vi: ft=sh
+
+docker build -t mikewright/go-dev .
